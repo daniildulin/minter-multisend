@@ -1,0 +1,11 @@
+.idea
+builds/
+vendor/
+tmp/
+media/
+go.sum
+config.toml
+.env
+values.*.yaml
+*.private.*
+*.tmp.*
